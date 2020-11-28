@@ -1,3 +1,7 @@
+## 欢迎来到我的主页
+
+建立这个站点是希望把自己培养成一名内容生产者。思考记录下来，才能使人不断站在基础上成长。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sahala318/sahala318.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
